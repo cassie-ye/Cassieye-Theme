@@ -4,7 +4,7 @@
   "colors": {
     "focusBorder": "#00000000",
     "foreground": "#dbd7cacc",
-    "descriptionForeground": "#fdaeb7",
+    "descriptionForeground": "#dedcd590",
     "errorForeground": "#cb7676",
     "textLink.foreground": "#6f42c1",
     "textLink.activeForeground": "#6f42c1",
@@ -25,12 +25,12 @@
     "input.background": "#121212",
     "input.border": "#09090b",
     "input.foreground": "#dbd7cacc",
-    "input.placeholderForeground": "#fdaeb7",
+    "input.placeholderForeground": "#dedcd590",
     "inputOption.activeBackground": "#dedcd550",
     "badge.foreground": "#000",
-    "badge.background": "#fdaeb7",
+    "badge.background": "#dedcd590",
     "progressBar.background": "#6f42c1",
-    "titleBar.activeForeground": "#fdaeb7",
+    "titleBar.activeForeground": "#bfbaaa",
     "titleBar.activeBackground": "#000",
     "titleBar.inactiveForeground": "#959da5",
     "titleBar.inactiveBackground": "#000",
@@ -39,10 +39,10 @@
     "activityBar.inactiveForeground": "#dedcd550",
     "activityBar.background": "#000",
     "activityBarBadge.foreground": "#000",
-    "activityBarBadge.background": "#fdaeb7",
+    "activityBarBadge.background": "#bfbaaa",
     "activityBar.activeBorder": "#6f42c1",
     "activityBar.border": "#09090b",
-    "sideBar.foreground": "#fdaeb7",
+    "sideBar.foreground": "#bfbaaa",
     "sideBar.background": "#000",
     "sideBar.border": "#09090b",
     "sideBarTitle.foreground": "#dbd7cacc",
@@ -72,12 +72,12 @@
     "quickInput.background": "#000",
     "quickInput.foreground": "#dbd7cacc",
     "quickInputList.focusBackground": "#121212",
-    "statusBar.foreground": "#fdaeb7",
+    "statusBar.foreground": "#bfbaaa",
     "statusBar.background": "#000",
     "statusBar.border": "#09090b",
     "statusBar.noFolderBackground": "#000",
     "statusBar.debuggingBackground": "#121212",
-    "statusBar.debuggingForeground": "#fdaeb7",
+    "statusBar.debuggingForeground": "#bfbaaa",
     "statusBarItem.prominentBackground": "#121212",
     "editorGroupHeader.tabsBackground": "#000",
     "editorGroupHeader.tabsBorder": "#09090b",
@@ -92,7 +92,7 @@
     "tab.unfocusedActiveBorderTop": "#09090b",
     "tab.activeBorder": "#09090b",
     "tab.unfocusedActiveBorder": "#09090b",
-    "tab.activeBorderTop": "#fdaeb7",
+    "tab.activeBorderTop": "#dedcd590",
     "breadcrumb.foreground": "#959da5",
     "breadcrumb.focusForeground": "#dbd7cacc",
     "breadcrumb.background": "#121212",
@@ -104,7 +104,7 @@
     "editor.foldBackground": "#eeeeee10",
     "editor.lineHighlightBackground": "#121212",
     "editorLineNumber.foreground": "#dedcd550",
-    "editorLineNumber.activeForeground": "#fdaeb7",
+    "editorLineNumber.activeForeground": "#bfbaaa",
     "editorIndentGuide.background": "#ffffff15",
     "editorIndentGuide.activeBackground": "#ffffff30",
     "editorWhitespace.foreground": "#ffffff15",
@@ -153,7 +153,7 @@
     "gitDecoration.untrackedResourceForeground": "#5eaab5",
     "gitDecoration.ignoredResourceForeground": "#dedcd550",
     "gitDecoration.conflictingResourceForeground": "#d4976c",
-    "gitDecoration.submoduleResourceForeground": "#fdaeb7",
+    "gitDecoration.submoduleResourceForeground": "#dedcd590",
     "editorGutter.modifiedBackground": "#6394bf",
     "editorGutter.addedBackground": "#4d9375",
     "editorGutter.deletedBackground": "#cb7676",
@@ -182,7 +182,7 @@
     "editorInfo.foreground": "#6394bf",
     "editorHint.foreground": "#4d9375",
     "editorGutter.commentRangeForeground": "#dedcd550",
-    "editorGutter.foldingControlForeground": "#fdaeb7",
+    "editorGutter.foldingControlForeground": "#dedcd590",
     "editorInlayHint.foreground": "#444444",
     "editorInlayHint.background": "#121212",
     "editorStickyScroll.background": "#121212",
@@ -659,7 +659,7 @@
         "markup.underline.link.image.markdown"
       ],
       "settings": {
-        "foreground": "#fdaeb7",
+        "foreground": "#dedcd590",
         "fontStyle": "underline"
       }
     },
@@ -1176,11 +1176,11 @@
     },
     {
       "token": "markup.underline.link.markdown",
-      "foreground": "fdaeb7"
+      "foreground": "dedcd590"
     },
     {
       "token": "markup.underline.link.image.markdown",
-      "foreground": "fdaeb7"
+      "foreground": "dedcd590"
     },
     {
       "token": "type.identifier",

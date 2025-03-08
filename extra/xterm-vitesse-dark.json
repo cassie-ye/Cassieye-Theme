@@ -1,7 +1,7 @@
 {
   "background": "#121212",
-  "foreground": "#d1bcf9",
-  "cursor": "#d1bcf9",
+  "foreground": "#dbd7caee",
+  "cursor": "#dbd7caee",
   "selectionBackground": "#eeeeee18",
   "selectionInactiveBackground": "#eeeeee10",
   "brightBlack": "#777777",
@@ -18,6 +18,6 @@
   "green": "#4d9375",
   "magenta": "#d9739f",
   "red": "#cb7676",
-  "white": "#d1bcf9",
+  "white": "#dbd7caee",
   "yellow": "#e6cc77"
 }

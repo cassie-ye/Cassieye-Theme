@@ -15,9 +15,9 @@ export const colors = {
 export const VitesseThemes = {
   primary: ['#6f42c1', '#1c6b48'],
 
-  foreground: ['#d1bcf9', '#393a34'],
-  activeForeground: ['#fdaeb7', '#4e4f47'],
-  secondaryForeground: ['#fdaeb7', '#393a3490'],
+  foreground: ['#dbd7caee', '#393a34'],
+  activeForeground: ['#bfbaaa', '#4e4f47'],
+  secondaryForeground: ['#dedcd590', '#393a3490'],
 
   ignored: ['#dedcd550', '#393a3450'],
   faded: ['#dedcd510', '#393a3410'],
