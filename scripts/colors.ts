@@ -13,18 +13,18 @@ export const colors = {
 
 // [dark, light]
 export const VitesseThemes = {
-  primary: ['#4d9375', '#1c6b48'],
+  primary: ['#6f42c1', '#1c6b48'],
 
-  foreground: ['#dbd7caee', '#393a34'],
-  activeForeground: ['#bfbaaa', '#4e4f47'],
-  secondaryForeground: ['#dedcd590', '#393a3490'],
+  foreground: ['#d1bcf9', '#393a34'],
+  activeForeground: ['#fdaeb7', '#4e4f47'],
+  secondaryForeground: ['#fdaeb7', '#393a3490'],
 
   ignored: ['#dedcd550', '#393a3450'],
   faded: ['#dedcd510', '#393a3410'],
-  border: ['#191919', '#f0f0f0'],
+  border: ['#09090b', '#f0f0f0'],
 
   background: ['#121212', '#ffffff'],
-  activeBackground: ['#181818', '#f7f7f7'],
+  activeBackground: ['#09090b', '#f7f7f7'],
   selectionBackground: ['#eeeeee18', '#22222218'],
   selectionBackgroundActive: ['#eeeeee18', '#22222218'],
   selectionBackgroundInActive: ['#eeeeee10', '#22222210'],

@@ -4,6 +4,7 @@ import { getXtermTheme } from './extra'
 
 console.log('starting')
 
+// 创建目录并生成主题文件
 fs.mkdir('./themes', { recursive: true })
   .then(() => Promise.all([
     fs.writeJSON(
@@ -51,6 +52,7 @@ fs.mkdir('./themes', { recursive: true })
     ),
   ]))
 
+  // 创建目录并生成终端主题文件
 fs.mkdir('./extra', { recursive: true })
   .then(() => Promise.all([
     fs.writeJSON(
