@@ -8,18 +8,18 @@ console.log('starting')
 fs.mkdir('./themes', { recursive: true })
   .then(() => Promise.all([
     fs.writeJSON(
-      './themes/vitesse-light.json',
+      './themes/Cassieye-light.json',
       getTheme({
         color: 'light',
-        name: 'Vitesse Light',
+        name: 'Cassieye Light',
       }),
       { spaces: 2 },
     ),
     fs.writeJSON(
-      './themes/vitesse-dark.json',
+      './themes/Cassieye-dark.json',
       getTheme({
         color: 'dark',
-        name: 'Vitesse Dark',
+        name: 'Cassieye Dark',
       }),
       { spaces: 2 },
     ),
