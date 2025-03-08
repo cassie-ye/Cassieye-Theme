@@ -23,33 +23,33 @@ fs.mkdir('./themes', { recursive: true })
       }),
       { spaces: 2 },
     ),
-    fs.writeJSON(
-      './themes/vitesse-black.json',
-      getTheme({
-        color: 'dark',
-        name: 'Vitesse Black',
-        black: true,
-      }),
-      { spaces: 2 },
-    ),
-    fs.writeJSON(
-      './themes/vitesse-light-soft.json',
-      getTheme({
-        color: 'light',
-        name: 'Vitesse Light Soft',
-        soft: true,
-      }),
-      { spaces: 2 },
-    ),
-    fs.writeJSON(
-      './themes/vitesse-dark-soft.json',
-      getTheme({
-        color: 'dark',
-        name: 'Vitesse Dark Soft',
-        soft: true,
-      }),
-      { spaces: 2 },
-    ),
+    // fs.writeJSON(
+    //   './themes/vitesse-black.json',
+    //   getTheme({
+    //     color: 'dark',
+    //     name: 'Vitesse Black',
+    //     black: true,
+    //   }),
+    //   { spaces: 2 },
+    // ),
+    // fs.writeJSON(
+    //   './themes/vitesse-light-soft.json',
+    //   getTheme({
+    //     color: 'light',
+    //     name: 'Vitesse Light Soft',
+    //     soft: true,
+    //   }),
+    //   { spaces: 2 },
+    // ),
+    // fs.writeJSON(
+    //   './themes/vitesse-dark-soft.json',
+    //   getTheme({
+    //     color: 'dark',
+    //     name: 'Vitesse Dark Soft',
+    //     soft: true,
+    //   }),
+    //   { spaces: 2 },
+    // ),
   ]))
 
   // 创建目录并生成终端主题文件

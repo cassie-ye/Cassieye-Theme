@@ -1,17 +1,17 @@
 {
-  "publisher": "antfu",
-  "name": "theme-vitesse",
-  "displayName": "Vitesse Theme",
+  "publisher": "Cassieye",
+  "name": "Cassieye Theme",
+  "displayName": "Cassieye Theme",
   "version": "0.8.3",
   "packageManager": "pnpm@9.7.1",
-  "description": "Vitesse theme for VS Code",
+  "description": "Cassieye theme for VS Code",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/vscode-theme-vitesse"
+    "url": "https://github.com/cassie-ye/Cassieye-Theme"
   },
   "bugs": {
-    "url": "https://github.com/antfu/vscode-theme-vitesse/issues"
+    "url": "https://github.com/cassie-ye/Cassieye-Theme/issues"
   },
   "keywords": [
     "theme",
@@ -25,11 +25,11 @@
   "exports": {
     "./*": "./*"
   },
-  "icon": "icon.png",
+  "icon": "icon2.png",
   "files": [
     "LICENSE.md",
     "extra/*",
-    "icon.png",
+    "icon2.png",
     "themes/*"
   ],
   "engines": {
