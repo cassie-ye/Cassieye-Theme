@@ -2,7 +2,7 @@
   "publisher": "Cassieye-azuretools",
   "name": "Cassieye-Theme",
   "displayName": "Cassieye Theme",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "packageManager": "pnpm@9.7.1",
   "description": "Cassieye theme for VS Code",
   "license": "MIT",
