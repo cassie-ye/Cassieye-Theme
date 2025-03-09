@@ -25,11 +25,11 @@
   "exports": {
     "./*": "./*"
   },
-  "icon": "icon2.png",
+  "icon": "icon.png",
   "files": [
     "LICENSE.md",
     "extra/*",
-    "icon2.png",
+    "icon.png",
     "themes/*"
   ],
   "engines": {
