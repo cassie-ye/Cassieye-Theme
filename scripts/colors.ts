@@ -52,7 +52,7 @@ export const VitesseThemes = {
   class: ['#C9B27C', '#5a6aa6'],
   interface: ['#5d99a9', '#2e808f'],
   type: ['#5DA994', '#2e8f82'],
-  builtin: ['#ba8e2f', '#ab5959'],
+  builtin: ['#5eaab5', '#ab5959'],
   property: ['#2993a3', '#998418'],
   namespace: ['#db889a', '#b05a78'],
   punctuation: ['#666666', '#999999'],

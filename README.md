@@ -1,42 +1,33 @@
-<h1 align="center">Vitesse Theme for VS Code</h1>
+<!--
+ * @Author: cassie-ye cassie20190909@gmail.com
+ * @Date: 2025-03-08 20:47:57
+ * @LastEditors: cassie-ye cassie20190909@gmail.com
+ * @LastEditTime: 2025-03-09 14:38:10
+ * @FilePath: \Cassieye-Theme\README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<h1 align="center">Cassieye Theme</h1>
 
-<p align="center">
-<a href="https://marketplace.visualstudio.com/items?itemName=antfu.theme-vitesse" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/antfu.theme-vitesse.svg?color=4d9375&amp;label=Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
-</p>
+<div align="center">
+<img alt="logo" src="icon.png">
+</div>
 
-<p align="center">
-<img width="1275" alt="Screenshot Light Mode" src="https://github.com/user-attachments/assets/7fa3db7a-5b11-4622-a59b-1f7b3f837d0d">
-<img width="1275" alt="Screenshot Dark Mode" src="https://github.com/user-attachments/assets/2919bb08-596b-4279-9f1e-4d2f7d1913fb">
-<sub><samp>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Font | <a href="https://input.djr.com/">Input Mono</a><br>
-&nbsp;File Icons | <a href="https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons">Catppuccin</a><br>
-Product Icons | <a href="https://github.com/antfu/vscode-icons-carbon">Carbon</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Demo | <a href="https://github.com/antfu/vitesse">Vitesse</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp></sub>
-</p>
+<h3 align="center">A colorful VSCode theme</h3>
 
-## Match with System
+## preview
 
-<!--eslint-skip-->
+### dark
 
-```jsonc
-// .vscode/setting.json
-{
-  "window.autoDetectColorScheme": true,
-  "workbench.preferredLightColorTheme": "Vitesse Light",
-  "workbench.preferredDarkColorTheme": "Vitesse Dark",
-}
-```
+> default
 
-## Links
+![preview](dark.png)
 
-[prism-theme-vars](https://github.com/antfu/prism-theme-vars) - where the theme is born.
+### light
 
-[vitesse](https://github.com/antfu/vitesse) - what the theme was for.
+> alpha
 
-## Thanks
+![preview](light.png)
 
-This project is based on [github-vscode-theme](https://github.com/primer/github-vscode-theme).
+## end
 
-## License
-
-MIT - Copyright (c) 2020 Primer <br>
-MIT - Copyright (c) 2021 Anthony Fu
+Hope you like it!

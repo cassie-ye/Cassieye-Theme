@@ -1,8 +1,8 @@
 {
-  "publisher": "Cassieye",
-  "name": "Cassieye Theme",
+  "publisher": "Cassieye-azuretools",
+  "name": "Cassieye-Theme",
   "displayName": "Cassieye Theme",
-  "version": "0.8.3",
+  "version": "0.0.1",
   "packageManager": "pnpm@9.7.1",
   "description": "Cassieye theme for VS Code",
   "license": "MIT",
@@ -25,11 +25,11 @@
   "exports": {
     "./*": "./*"
   },
-  "icon": "icon2.png",
+  "icon": "icon.png",
   "files": [
     "LICENSE.md",
     "extra/*",
-    "icon2.png",
+    "icon.png",
     "themes/*"
   ],
   "engines": {
@@ -38,29 +38,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vitesse Light",
+        "label": "Cassieye Light",
         "uiTheme": "vs",
-        "path": "./themes/vitesse-light.json"
+        "path": "./themes/Cassieye-light.json"
       },
       {
-        "label": "Vitesse Dark",
+        "label": "Cassieye Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark.json"
-      },
-      {
-        "label": "Vitesse Black",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-black.json"
-      },
-      {
-        "label": "Vitesse Light Soft",
-        "uiTheme": "vs",
-        "path": "./themes/vitesse-light-soft.json"
-      },
-      {
-        "label": "Vitesse Dark Soft",
-        "uiTheme": "vs-dark",
-        "path": "./themes/vitesse-dark-soft.json"
+        "path": "./themes/Cassieye-dark.json"
       }
     ]
   },

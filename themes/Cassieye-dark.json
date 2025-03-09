@@ -296,7 +296,7 @@
         "constant.language.import-export-all.ts"
       ],
       "settings": {
-        "foreground": "#ba8e2f"
+        "foreground": "#5eaab5"
       }
     },
     {
@@ -495,7 +495,7 @@
         "keyword.other.unit"
       ],
       "settings": {
-        "foreground": "#ba8e2f"
+        "foreground": "#5eaab5"
       }
     },
     {
@@ -836,27 +836,27 @@
     },
     {
       "token": "storage",
-      "foreground": "ba8e2f"
+      "foreground": "5eaab5"
     },
     {
       "token": "storage.type",
-      "foreground": "ba8e2f"
+      "foreground": "5eaab5"
     },
     {
       "token": "support.type.builtin",
-      "foreground": "ba8e2f"
+      "foreground": "5eaab5"
     },
     {
       "token": "constant.language.undefined",
-      "foreground": "ba8e2f"
+      "foreground": "5eaab5"
     },
     {
       "token": "constant.language.null",
-      "foreground": "ba8e2f"
+      "foreground": "5eaab5"
     },
     {
       "token": "constant.language.import-export-all.ts",
-      "foreground": "ba8e2f"
+      "foreground": "5eaab5"
     },
     {
       "token": "text.html.derivative",
@@ -1032,7 +1032,7 @@
     },
     {
       "token": "keyword.other.unit",
-      "foreground": "ba8e2f"
+      "foreground": "5eaab5"
     },
     {
       "token": "constant.language.boolean",

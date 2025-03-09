@@ -1,3 +1,11 @@
+/*
+ * @Author: cassie-ye cassie20190909@gmail.com
+ * @Date: 2025-03-09 10:22:12
+ * @LastEditors: cassie-ye cassie20190909@gmail.com
+ * @LastEditTime: 2025-03-09 10:22:29
+ * @FilePath: \Cassieye-Theme\scripts\index.ts
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+ */
 import fs from 'fs-extra'
 import getTheme from './theme'
 import { getXtermTheme } from './extra'
@@ -23,36 +31,9 @@ fs.mkdir('./themes', { recursive: true })
       }),
       { spaces: 2 },
     ),
-    // fs.writeJSON(
-    //   './themes/vitesse-black.json',
-    //   getTheme({
-    //     color: 'dark',
-    //     name: 'Vitesse Black',
-    //     black: true,
-    //   }),
-    //   { spaces: 2 },
-    // ),
-    // fs.writeJSON(
-    //   './themes/vitesse-light-soft.json',
-    //   getTheme({
-    //     color: 'light',
-    //     name: 'Vitesse Light Soft',
-    //     soft: true,
-    //   }),
-    //   { spaces: 2 },
-    // ),
-    // fs.writeJSON(
-    //   './themes/vitesse-dark-soft.json',
-    //   getTheme({
-    //     color: 'dark',
-    //     name: 'Vitesse Dark Soft',
-    //     soft: true,
-    //   }),
-    //   { spaces: 2 },
-    // ),
   ]))
 
-  // 创建目录并生成终端主题文件
+// 创建目录并生成终端主题文件
 fs.mkdir('./extra', { recursive: true })
   .then(() => Promise.all([
     fs.writeJSON(
